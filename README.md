@@ -17,5 +17,5 @@ Este repositório arquiva minhas palestras públicas e artigos de pesquisa sobre
 
 ### 3. Pentest em IA e LLMs
 **Título:** Do prompt à Fraude: Sobre a utilização de IAs em Fake News e ameaças cibernéticas.
-**Descrição:** Uma análise sobre como a IA Generativa é usada como vetor de ataque, demonstrando que, assim como qualquer tecnologia emergente, ela possui vulnerabilidades críticas que precisam ser auditadas.
-**[Ver PDF da Palestra](./palestras/Do-prompt-a-fraude-sobre-a-utilizacao-de-IAs-em-Fake-News-e-ameacas-ciberneticas (2).pdf)**
+**Descrição:** Uma análise sobre como a IA Generativa é usada como vetor de ataque, demonstrando que, assim como qualquer tecnologia emergente, ela possui vulnerabilidades críticas que precisam ser auditadas. 
+**([Ver PDF da Palestra](https://github.com/Luan-Garcia/palestras-e-pesquisas/blob/main/palestras/Do-prompt-a-fraude-sobre-a-utilizacao-de-IAs-em-Fake-News-e-ameacas-ciberneticas%20(2).pdf))**
