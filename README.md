@@ -19,3 +19,8 @@ Este repositório arquiva minhas palestras públicas e artigos de pesquisa sobre
 **Título:** Do prompt à Fraude: Sobre a utilização de IAs em Fake News e ameaças cibernéticas.<br>
 **Descrição:** Uma análise sobre como a IA Generativa é usada como vetor de ataque, demonstrando que, assim como qualquer tecnologia emergente, ela possui vulnerabilidades críticas que precisam ser auditadas.<br> 
 **[Ver PDF da Palestra](https://github.com/Luan-Garcia/palestras-e-pesquisas/blob/main/palestras/Do-prompt-a-fraude-sobre-a-utilizacao-de-IAs-em-Fake-News-e-ameacas-ciberneticas.pdf)**
+
+### 4. Defensor vs. Atacante
+**Título:** Defensor vs. Atacante: Duas perspectivas sobre a mesma rede. <br>
+**Descrição:** Abordo sobre como um atacante e um defensor vão olhar para a mesma rede. Explico algumas formas de bypass e também mecanismos que a defesa utiliza. <br>
+**[Ver PDF da Palestra](https://github.com/Luan-Garcia/palestras-e-pesquisas/blob/main/palestras/Defensor-vs-Atacante-Duas-Perspectivas-Sobre-a-Mesma-Rede.pdf)**
